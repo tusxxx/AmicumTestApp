@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="area">Участок</string>
+    <string name="place">Место</string>
+    <string name="begin_date">Дата начала</string>
+    <string name="begin_time">Время начала</string>
+    <string name="end_date">Дата окончания</string>
+    <string name="end_time">Время окончания</string>
+    <string name="type_of_awaiting">Тип простоя</string>
+    <string name="add_reason_of_awaiting">Добавить причину простоя</string>
+    <string name="add_hardware">Добавить оборудование</string>
+    <string name="comment">Комментарий</string>
+    <string name="add_awaiting">Добавить простой</string>
+</resources>
